@@ -14,7 +14,7 @@ Cypress (básico)
 
 Git e GitHub
 
-Conhecimentos em QA
+Conhecimentos em QA:
 
 Testes Manuais
 
@@ -28,17 +28,21 @@ Testes Caixa Preta
 
 Testes Caixa Branca
 
-Testes de Perfomance
+Testes de Performance
 
-Teste de regressão
+Testes de regressão
 
 Kanban / Metodologias Ágeis
 
-Ferramentas
+Ferramentas:
 
 Postman
 
 Jira
+
+Linguagens de programação:
+
+Java
 
 ## Objetivo
 Conquistar uma oportunidade como QA Júnior ou Estágio em Testes de Software, para crescer profissionalmente na área de tecnologia.
