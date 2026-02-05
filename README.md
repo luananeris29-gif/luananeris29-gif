@@ -4,45 +4,31 @@
 Sou Analista de Testes de Software em formação, em transição de carreira para a área de QA. 
 
 
-Atualmente estudando:
+## Atualmente estudando
+- SQL
+- Automação de Testes
+- Cypress (básico)
+- Git e GitHub
+- Java (básico)
 
-SQL
+## Conhecimentos em QA
+- Testes Manuais
+- Testes Funcionais
+- Testes Não Funcionais
+- Testes Automatizados
+- Testes Caixa Preta
+- Testes Caixa Branca
+- Testes de Performance
+- Testes de Regressão
+- Kanban / Metodologias Ágeis
 
-Automação de Testes
+## Ferramentas
+- Postman
+- Jira
 
-Cypress (básico)
+## Linguagens de Programação
+- Java
 
-Git e GitHub
-
-Conhecimentos em QA:
-
-Testes Manuais
-
-Testes Funcionais
-
-Testes Não Funcionais
-
-Testes Automatizados
-
-Testes Caixa Preta
-
-Testes Caixa Branca
-
-Testes de Performance
-
-Testes de regressão
-
-Kanban / Metodologias Ágeis
-
-Ferramentas:
-
-Postman
-
-Jira
-
-Linguagens de programação:
-
-Java
 
 ## Objetivo
 Conquistar uma oportunidade como QA Júnior ou Estágio em Testes de Software, para crescer profissionalmente na área de tecnologia.
