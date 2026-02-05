@@ -21,7 +21,7 @@ Sou Analista de Testes de Software em formação, em transição de carreira par
 - Testes de Performance
 - Testes de Regressão
 - Kanban / Metodologias Ágeis
-- BDD (gherkin)
+- Bdd gherkin
 
 ## Ferramentas
 - Postman
