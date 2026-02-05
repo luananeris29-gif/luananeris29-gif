@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Luana 👋
 
-<!--
-**luananeris29-gif/luananeris29-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou Analista de Testes de Software em formação, em transição de carreira para a área de QA. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estudando
+- SQL
+- Testes Manuais
+- Automação de Testes
+- Cypress (básico)
+- Postman
+- Jira
+- Git e GitHub
+- Kanban
+
+## Objetivo
+Conquistar uma oportunidade como QA Júnior ou Estágio em Testes de Software, para crescer profissionalmente na área de tecnologia.
+
+## Contato
+LinkedIn: www.linkedin.com/in/luana-neris-623036347
+Email: luananeris29@gmail.com
+
