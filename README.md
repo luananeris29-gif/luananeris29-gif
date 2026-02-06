@@ -32,7 +32,7 @@ Sou Analista de Testes de Software em formação, em transição de carreira par
 
 
 ## Objetivo
-Conquistar uma oportunidade como QA Júnior ou Estágio em Testes de Software, para crescer profissionalmente na área de tecnologia.
+Conquistar uma oportunidade como QA Júnior em Testes de Software, para crescer profissionalmente na área de tecnologia.
 
 ## Contato
 LinkedIn: www.linkedin.com/in/luana-neris-623036347
