@@ -1,8 +1,7 @@
 # Olá, eu sou a Luana 👋
 
 ## Sobre mim
-Sou Analista de Testes de Software em formação, em transição de carreira para a área de QA. 
-
+Analista de qualidade de software
 
 ## Atualmente estudando
 - SQL
